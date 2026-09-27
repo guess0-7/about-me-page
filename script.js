@@ -1,7 +1,7 @@
 const flipBox = document.getElementById('photoFlip');
 const img = document.getElementById('flipImg');
 
-const photos = ['MyPics/1.jpeg', 'MyPics/2.jpeg', 'MyPics/3.jpg'];
+const photos = ['1.jpeg', '2.jpeg', '3.jpg'];
 let index = 0;
 
 
